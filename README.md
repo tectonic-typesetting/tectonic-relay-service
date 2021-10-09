@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/tectonic-typesetting/tectonic/_apis/build/status/tectonic-typesetting.tectonic-relay-service?branchName=main)](https://dev.azure.com/tectonic-typesetting/tectonic/_build/latest?definitionId=12&branchName=main)
+
 # Tectonic Relay Service
 
 This repository defines a Docker container that implements Tectonic’s "relay"
