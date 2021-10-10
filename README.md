@@ -24,10 +24,11 @@ docker run --rm -p 8888:80 tectonictypesetting/relay-service:latest
 The build and publication of this image is automated through the
 `azure-pipelines.yml` file. The image ultimately emerges as
 [tectonictypesetting/relay-service](https://hub.docker.com/repository/docker/tectonictypesetting/relay-service).
-A webhook is configured there to update the running service on Azure.
+A webhook is configured there to update the running service on Azure, which is
+exposed at `relay.fullyjustified.net`.
 
 
 ## Legalities
 
-The code in this repository is copyright Peter Williams and collaborators, and
-licensed under the MIT License.
+The code in this repository is copyright the Tectonic Project, and licensed
+under the MIT License.

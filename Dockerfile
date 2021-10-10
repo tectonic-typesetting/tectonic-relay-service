@@ -1,4 +1,4 @@
-# Copyright 2021 Peter Williamd and collaborators
+# Copyright 2021 the Tectonic Project
 # Licensed under the MIT License
 
 FROM nginx:1.16-alpine
